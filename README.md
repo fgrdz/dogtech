@@ -1,5 +1,5 @@
 ![Captura de tela](./public/assets/screenshot.png)
-#DogTech
+# DogTech
 
 Este é o repositório de uma aplicação React, que utiliza React Router Dom, é um blog de tecnologia, que contém duas rotas principais.
 
